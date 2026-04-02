@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+jupyterlab
+notebook
+ipykernel
+langchain
+langchain-anthropic
